@@ -1,4 +1,4 @@
-# Real Time Streaming Pipeline with Azure Databricks and Spark  
+# Real Time Streaming Pipeline with Azure Databricks and Delta Live Tables  
 
 ### Architecture
 
