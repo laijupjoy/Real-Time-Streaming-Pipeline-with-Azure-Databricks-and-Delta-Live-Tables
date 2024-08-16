@@ -14,3 +14,15 @@ Delta Live Tables pipelines are used to define data transformations, while Delta
 
 <img width="798" alt="ADF pipeline" src="https://github.com/laijupjoy/Real-Time-Streaming-Pipeline-with-Azure-Databricks-and-Delta-Live-Tables/assets/87544051/00f98a47-3189-4659-a05a-8f7ddd972a74">
 
+### Technology Used
+~~~
+1.ADLS Gen2
+2.Azure Data Factory
+3.Azure Databricks
+4.Delta Live Tables
+5.Azure Logic Apps
+6.Azure Key Vault
+7.Kafka 
+8.MySQL database
+9.Azure DevOps 
+~~~
