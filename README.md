@@ -1,4 +1,10 @@
-# Real Time Streaming Pipeline with Azure Databricks and Delta Live Tables  
+## Real Time Streaming Pipeline with Azure Databricks and Delta Live Tables  
+
+### Introduction
+
+Here, implement real time streaming data processing by incremental or delta load ETL pipeline by using ADF. This ETL pipeline driven by metadata tables stored on delta lake, and implemented logging, email notification via logic app after every pipeline run.
+
+Delta Live Tables pipelines are used to define data transformations, while Delta Live Tables ensures the quality and integrity of the data throughout the process. Create Pyspark and Spark SQL code in Databricks notebook and execute through ETL pipeline. The final result is curated data on Gold layer, it will use for reporting purpose.
 
 ### Architecture
 
